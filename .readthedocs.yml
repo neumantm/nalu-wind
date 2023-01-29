@@ -10,3 +10,5 @@ python:
     - requirements: docs/requirements.txt
 submodules:
   exclude: all
+sphinx:
+  fail_on_warning: true
